@@ -1,5 +1,6 @@
 # CRUD-CLI
-A simple app on a Command Line Interface using JavaScript to perform CRUD commands on a JSON file
+A simple app on a Command Line Interface using JavaScript to perform CRUD commands on a JSON file.
+The app shows a simple menu to access a simple database of users.
 
 ## How To Run The Program
 - Install the files
